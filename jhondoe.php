@@ -1,4 +1,5 @@
 <?php
+echo "Hello Jhon Doe";
 /**
  * Webhook for Time Bot- Facebook Messenger Bot
  * User: adnan
